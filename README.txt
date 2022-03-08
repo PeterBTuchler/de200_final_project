@@ -10,6 +10,4 @@ CYTZ_2015.txt and all simmilar ****_2015.txt files store the scraped data from w
 
 merged_2015.txt is the reformatted and merged weather data from all of the ****_2015.txt files.
 
-game_logs_excel.xlsx is a file that contains all of the baseball dataset, but no weather information.
-
 baseball_weather_dataset.csv is a csv file that contains all of the baseball data and the weather data combined. It is 140 MB and we used it to create our graphs for analysis.
